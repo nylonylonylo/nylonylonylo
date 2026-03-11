@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+nylo;Software+Developer;Reverse+Engineering+Learner;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer n' CyberSecurity Enthusiast</h3>
 
 <br/>
 
@@ -97,8 +97,8 @@ Intermediate
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=nylonylonylo&show_icons=true&theme=tokyonight"/>
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nylonylonylo&layout=compact&theme=tokyonight"/>
 
 </div>
