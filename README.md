@@ -48,7 +48,7 @@ Still Learning
 
 **C**
 
-Beginner
+Still Learning
 
 </td>
 
@@ -60,7 +60,7 @@ Beginner
 
 **Python**
 
-Intermediate
+Still Learning
 
 </td>
 
