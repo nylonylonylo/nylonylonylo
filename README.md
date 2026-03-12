@@ -36,7 +36,7 @@
 
 **C++**
 
-Still Learning
+Just Startings
 
 </td>
 
@@ -48,7 +48,7 @@ Still Learning
 
 **C**
 
-Still Learning
+Just Startings
 
 </td>
 
@@ -60,7 +60,7 @@ Still Learning
 
 **Python**
 
-Still Learning
+Beginner
 
 </td>
 
